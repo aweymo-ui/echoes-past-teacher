@@ -1,2 +1,3 @@
-# echoes-past-teacher
-Curriculum template for Meghan Caves
+# Thesis Prospectus
+
+University of Idaho History MA materials. _Andrew Weymouth, Spring 2025_.
