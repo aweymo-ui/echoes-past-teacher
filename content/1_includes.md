@@ -1,12 +1,12 @@
 ---
-title: Documentary
-nav: Documentary
+title: Includes Guide
+nav: Includes Guide
 gallery: true
 ---
 
 <br>
 
-{% include feature/nav-menu.html sections="Images;Audio;Video;PDF;Accordions for Simple Question and Answer;Alert;Button;Card;Modal" %}
+{% include feature/nav-menu.html sections="Images;Audio;Video;PDF;Accordions for Simple Question and Answer;Alert;Button;Card;Modal;Timeline" %}
 
 ## Images
 
