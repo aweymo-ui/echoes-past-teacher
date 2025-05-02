@@ -16,11 +16,17 @@ Example Example example
 
 <br>
 
+{% include gallery-figure.html img="example_banner.jpg" alt="some houses and a barn" caption="Echo!" width="100%" %}
+
+<hr>
+
 ## Header 2
 
 <br>
 
 Example Example example
+
+{% include feature/audio.html objectid="demo_003" %}
 
 <br>
 

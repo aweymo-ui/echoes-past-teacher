@@ -4,7 +4,7 @@ var store = [
     { 
         "url": "/content/1_example.html",
         "title": "Example Page 1",
-        "text": "Contents: Header 1 | Header 2 | Header 3 | Header 4 | Header 5 | Header 6 | Header 7 Header 1 Example Example example Header 2 Example Example example Header 3 Header 4 Header 5 Header 6 Header 7"
+        "text": "Contents: Header 1 | Header 2 | Header 3 | Header 4 | Header 5 | Header 6 | Header 7 Header 1 Example Example example Echo! Header 2 Example Example example Your browser does not support the audio element. Header 3 Header 4 Header 5 Header 6 Header 7"
     },
     { 
         "url": "/content/2_example.html",
