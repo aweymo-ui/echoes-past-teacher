@@ -26,7 +26,7 @@ Example Example example
 
 Example Example example
 
-{% include feature/audio.html objectid="demo_003" %}
+{% include feature/audio.html objectid="/images/field_recording.mp3" %}
 
 <br>
 
