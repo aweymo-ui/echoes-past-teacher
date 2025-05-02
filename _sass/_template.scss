@@ -1,5 +1,7 @@
 /* tweak defaults if variables set */
 body {
+    background-color: #dce3c7;
+    font-family: 'Noto Sans', sans-serif;
     @if variable-exists(base-font-family) { font-family: $base-font-family; }
     @if variable-exists(base-font-size) { font-size: $base-font-size; }
     @if variable-exists(text-color) { color: $text-color; }
@@ -141,4 +143,11 @@ blockquote {
 .term {
     font-size: 1.3rem;
     font-weight: bold;
+}
+
+/* horizontal rule: wavy and custom color */
+hr {
+    border: none;
+    border-top: 4px wavy #93AFCB;
+    height: 0;
 }

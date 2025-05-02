@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Thesis Prospectus Materials
+title: Meghan Caves Curriculum Site
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -18,22 +18,22 @@ title: Thesis Prospectus Materials
 title-icon: 
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "Andrew Weymouth, 2025 University of Idaho History MA."
+description: "Meghan Caves Curriculum Site"
 keywords: 
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
-featured-image: "/images/banner.jpg"
+featured-image: "/images/example_banner.jpg"
 # add search box to footer? true/false
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: Andrew Weymouth
+author: Meghan Caves
 # your github username for link [optional]
-github_username: aweymo
+github_username: mcaves-ui
 # year or date published
-pub_year: 2024
+pub_year: 2025
 # location of code, the full url to your github repository
-source-code: https://github.com/aweymo-ui/thesis_prospectus
+source-code: https://github.com/aweymo-ui/echoes-past-teacher
 
 ##########
 # URL VARIABLES [optional!!]
