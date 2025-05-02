@@ -1,3 +1,3 @@
-# Thesis Prospectus
+# echoes-past-teacher
 
-University of Idaho History MA materials. _Andrew Weymouth, Spring 2025_.
+Variation on workshop template for University of Idaho Archaeology student Meghan Caves. _Andrew Weymouth, Spring 2025_.
